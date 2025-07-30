@@ -15,25 +15,5 @@ const NavBar = () => {
   );
 };
 
-/*
-const styles = {
-  nav: {
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    backgroundColor: '#f0f0f0',
-    padding: '10px 20px'
-  },
-  logo: {
-    margin: 0
-  },
-  navLinks: {
-    display: 'flex',
-    gap: '15px',
-    listStyle: 'none',
-    margin: 0,
-    padding: 0
-  }
-};
-*/
+
 export default NavBar;

@@ -8,11 +8,6 @@ const ItemListContainer = ({ saludo }) => {
   );
 };
 
-const styles = {
-  container: {
-    padding: '20px',
-    textAlign: 'center'
-  }
-};
+
 
 export default ItemListContainer;
